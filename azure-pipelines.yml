@@ -57,3 +57,4 @@ stages:
         sourceImageTag: $(Build.BuildId)
         pushTag: latest
         repositoryName: 'my-sample-docker-repo'
+# Rahuldeshmukh.online
